@@ -1,22 +1,8 @@
 ## 1. 下载python
 
+z注意下载器上一定是64-bit，不存在32-bit的，32-bit下载器弄出来一定是错的
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+3.10.9这个版本可以用 https://www.python.org/downloads/release/python-3109/
 
 
 
@@ -43,11 +29,15 @@ trusted-host=mirrors.aliyun.com
 
 pip install sip
 
+pip install wheel
+
 pip install PyQt5
 
 pip install PySide2
 
+pip install pandas
 
+- [PySide2](https://pypi.org/project/PySide2/)要求Python>=2.7、!=3.0.*、!=3.1.*、!=3.2.*、!=3.3.*、!=3.4.*、< 3.11
 
 
 
@@ -58,7 +48,15 @@ pip install PySide2
 - PyUIC - 将.ui文件转换为python代码
 - PyRCC - 将qrc文件转换为python代码
 
-Qt Designer 不用，下载一个自己打开就好了
+Qt Designer 
+
+
+
+
+
+
+
+
 
 Edit In Designer
 

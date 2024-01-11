@@ -1,6 +1,7 @@
 import pandas as pd
 from PyQt5 import QtWidgets, QtCore, QtGui
 from PyQt5.QtWidgets import QApplication, QLabel, QVBoxLayout, QWidget
+
 import sys
 
 class GUI(QWidget):
@@ -28,4 +29,5 @@ if __name__ == '__main__':
     app = QApplication(sys.argv)
     widget = GUI()
     widget.show()
+    widget.setWindowTitle("新的窗口名字")
     sys.exit(app.exec_())
