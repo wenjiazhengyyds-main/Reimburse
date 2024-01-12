@@ -16,8 +16,8 @@
   <widget class="QLabel" name="Title">
    <property name="geometry">
     <rect>
-     <x>360</x>
-     <y>0</y>
+     <x>361</x>
+     <y>21</y>
      <width>381</width>
      <height>61</height>
     </rect>
@@ -38,8 +38,8 @@
   <widget class="QComboBox" name="decide_comboBox">
    <property name="geometry">
     <rect>
-     <x>120</x>
-     <y>60</y>
+     <x>121</x>
+     <y>81</y>
      <width>181</width>
      <height>31</height>
     </rect>
@@ -73,8 +73,8 @@
   <widget class="QLabel" name="decide_label">
    <property name="geometry">
     <rect>
-     <x>40</x>
-     <y>60</y>
+     <x>41</x>
+     <y>81</y>
      <width>81</width>
      <height>21</height>
     </rect>
@@ -86,8 +86,8 @@
   <widget class="QDateEdit" name="reimburse_dateEdit">
    <property name="geometry">
     <rect>
-     <x>850</x>
-     <y>70</y>
+     <x>821</x>
+     <y>91</y>
      <width>110</width>
      <height>22</height>
     </rect>
@@ -96,8 +96,8 @@
   <widget class="QLabel" name="reimburse_time_label">
    <property name="geometry">
     <rect>
-     <x>740</x>
-     <y>70</y>
+     <x>721</x>
+     <y>91</y>
      <width>81</width>
      <height>21</height>
     </rect>
@@ -109,7 +109,7 @@
   <widget class="QPushButton" name="Sure">
    <property name="geometry">
     <rect>
-     <x>280</x>
+     <x>330</x>
      <y>750</y>
      <width>93</width>
      <height>28</height>
@@ -122,8 +122,8 @@
   <widget class="QLabel" name="label2_2">
    <property name="geometry">
     <rect>
-     <x>40</x>
-     <y>140</y>
+     <x>41</x>
+     <y>161</y>
      <width>81</width>
      <height>21</height>
     </rect>
@@ -135,8 +135,8 @@
   <widget class="QLabel" name="label2_3">
    <property name="geometry">
     <rect>
-     <x>40</x>
-     <y>290</y>
+     <x>41</x>
+     <y>311</y>
      <width>81</width>
      <height>21</height>
     </rect>
@@ -148,8 +148,8 @@
   <widget class="QLabel" name="label2_4">
    <property name="geometry">
     <rect>
-     <x>40</x>
-     <y>230</y>
+     <x>41</x>
+     <y>251</y>
      <width>81</width>
      <height>21</height>
     </rect>
@@ -161,8 +161,8 @@
   <widget class="QCheckBox" name="checkBox1">
    <property name="geometry">
     <rect>
-     <x>120</x>
-     <y>140</y>
+     <x>121</x>
+     <y>161</y>
      <width>61</width>
      <height>20</height>
     </rect>
@@ -177,8 +177,8 @@
   <widget class="QCheckBox" name="checkBox_2">
    <property name="geometry">
     <rect>
-     <x>460</x>
-     <y>140</y>
+     <x>461</x>
+     <y>161</y>
      <width>71</width>
      <height>20</height>
     </rect>
@@ -193,8 +193,8 @@
   <widget class="QCheckBox" name="checkBox_4">
    <property name="geometry">
     <rect>
-     <x>560</x>
-     <y>140</y>
+     <x>561</x>
+     <y>161</y>
      <width>71</width>
      <height>20</height>
     </rect>
@@ -209,8 +209,8 @@
   <widget class="QCheckBox" name="checkBox_5">
    <property name="geometry">
     <rect>
-     <x>650</x>
-     <y>140</y>
+     <x>651</x>
+     <y>161</y>
      <width>61</width>
      <height>20</height>
     </rect>
@@ -225,8 +225,8 @@
   <widget class="QCheckBox" name="checkBox_6">
    <property name="geometry">
     <rect>
-     <x>740</x>
-     <y>140</y>
+     <x>741</x>
+     <y>161</y>
      <width>71</width>
      <height>20</height>
     </rect>
@@ -241,8 +241,8 @@
   <widget class="QCheckBox" name="checkBox_7">
    <property name="geometry">
     <rect>
-     <x>840</x>
-     <y>140</y>
+     <x>841</x>
+     <y>161</y>
      <width>71</width>
      <height>20</height>
     </rect>
@@ -257,8 +257,8 @@
   <widget class="QCheckBox" name="checkBox_8">
    <property name="geometry">
     <rect>
-     <x>930</x>
-     <y>140</y>
+     <x>931</x>
+     <y>161</y>
      <width>71</width>
      <height>20</height>
     </rect>
@@ -273,8 +273,8 @@
   <widget class="QCheckBox" name="checkBox_9">
    <property name="geometry">
     <rect>
-     <x>190</x>
-     <y>140</y>
+     <x>191</x>
+     <y>161</y>
      <width>61</width>
      <height>20</height>
     </rect>
@@ -289,8 +289,8 @@
   <widget class="QCheckBox" name="checkBox_3">
    <property name="geometry">
     <rect>
-     <x>280</x>
-     <y>140</y>
+     <x>281</x>
+     <y>161</y>
      <width>51</width>
      <height>20</height>
     </rect>
@@ -305,8 +305,8 @@
   <widget class="QCheckBox" name="checkBox_10">
    <property name="geometry">
     <rect>
-     <x>360</x>
-     <y>140</y>
+     <x>361</x>
+     <y>161</y>
      <width>71</width>
      <height>20</height>
     </rect>
@@ -321,8 +321,8 @@
   <widget class="QLabel" name="label2_5">
    <property name="geometry">
     <rect>
-     <x>40</x>
-     <y>170</y>
+     <x>41</x>
+     <y>191</y>
      <width>81</width>
      <height>21</height>
     </rect>
@@ -334,8 +334,8 @@
   <widget class="QComboBox" name="comboBox_2">
    <property name="geometry">
     <rect>
-     <x>120</x>
-     <y>170</y>
+     <x>121</x>
+     <y>191</y>
      <width>111</width>
      <height>31</height>
     </rect>
@@ -384,8 +384,8 @@
   <widget class="QComboBox" name="comboBox_3">
    <property name="geometry">
     <rect>
-     <x>130</x>
-     <y>230</y>
+     <x>131</x>
+     <y>251</y>
      <width>41</width>
      <height>31</height>
     </rect>
@@ -474,8 +474,8 @@
   <widget class="QLabel" name="label2_6">
    <property name="geometry">
     <rect>
-     <x>190</x>
-     <y>230</y>
+     <x>191</x>
+     <y>251</y>
      <width>31</width>
      <height>21</height>
     </rect>
@@ -487,8 +487,8 @@
   <widget class="QTextEdit" name="textEdit">
    <property name="geometry">
     <rect>
-     <x>120</x>
-     <y>280</y>
+     <x>121</x>
+     <y>301</y>
      <width>321</width>
      <height>41</height>
     </rect>
@@ -504,8 +504,8 @@ p, li { white-space: pre-wrap; }
   <widget class="QLabel" name="label2_7">
    <property name="geometry">
     <rect>
-     <x>40</x>
-     <y>400</y>
+     <x>41</x>
+     <y>421</y>
      <width>81</width>
      <height>21</height>
     </rect>
@@ -517,8 +517,8 @@ p, li { white-space: pre-wrap; }
   <widget class="QDateEdit" name="dateEdit_2">
    <property name="geometry">
     <rect>
-     <x>110</x>
-     <y>440</y>
+     <x>111</x>
+     <y>461</y>
      <width>110</width>
      <height>22</height>
     </rect>
@@ -527,8 +527,8 @@ p, li { white-space: pre-wrap; }
   <widget class="QLabel" name="label2_8">
    <property name="geometry">
     <rect>
-     <x>130</x>
-     <y>400</y>
+     <x>131</x>
+     <y>421</y>
      <width>81</width>
      <height>21</height>
     </rect>
@@ -540,8 +540,8 @@ p, li { white-space: pre-wrap; }
   <widget class="QLabel" name="label2_9">
    <property name="geometry">
     <rect>
-     <x>320</x>
-     <y>400</y>
+     <x>321</x>
+     <y>421</y>
      <width>81</width>
      <height>21</height>
     </rect>
@@ -553,8 +553,8 @@ p, li { white-space: pre-wrap; }
   <widget class="QLabel" name="label2_10">
    <property name="geometry">
     <rect>
-     <x>640</x>
-     <y>400</y>
+     <x>641</x>
+     <y>421</y>
      <width>81</width>
      <height>21</height>
     </rect>
@@ -566,8 +566,8 @@ p, li { white-space: pre-wrap; }
   <widget class="QLabel" name="label2_11">
    <property name="geometry">
     <rect>
-     <x>460</x>
-     <y>400</y>
+     <x>461</x>
+     <y>421</y>
      <width>81</width>
      <height>21</height>
     </rect>
@@ -579,8 +579,8 @@ p, li { white-space: pre-wrap; }
   <widget class="QDateEdit" name="dateEdit_3">
    <property name="geometry">
     <rect>
-     <x>450</x>
-     <y>440</y>
+     <x>451</x>
+     <y>461</y>
      <width>110</width>
      <height>22</height>
     </rect>
@@ -589,8 +589,8 @@ p, li { white-space: pre-wrap; }
   <widget class="QTextEdit" name="textEdit_2">
    <property name="geometry">
     <rect>
-     <x>280</x>
-     <y>430</y>
+     <x>281</x>
+     <y>451</y>
      <width>131</width>
      <height>41</height>
     </rect>
@@ -606,8 +606,8 @@ p, li { white-space: pre-wrap; }
   <widget class="QTextEdit" name="textEdit_3">
    <property name="geometry">
     <rect>
-     <x>610</x>
-     <y>430</y>
+     <x>611</x>
+     <y>451</y>
      <width>131</width>
      <height>41</height>
     </rect>
@@ -623,8 +623,8 @@ p, li { white-space: pre-wrap; }
   <widget class="QLabel" name="label2_12">
    <property name="geometry">
     <rect>
-     <x>40</x>
-     <y>440</y>
+     <x>41</x>
+     <y>461</y>
      <width>81</width>
      <height>21</height>
     </rect>
@@ -636,8 +636,8 @@ p, li { white-space: pre-wrap; }
   <widget class="QLabel" name="label2_13">
    <property name="geometry">
     <rect>
-     <x>40</x>
-     <y>480</y>
+     <x>41</x>
+     <y>501</y>
      <width>81</width>
      <height>21</height>
     </rect>
@@ -649,8 +649,8 @@ p, li { white-space: pre-wrap; }
   <widget class="QLabel" name="label2_14">
    <property name="geometry">
     <rect>
-     <x>40</x>
-     <y>350</y>
+     <x>41</x>
+     <y>371</y>
      <width>81</width>
      <height>21</height>
     </rect>
@@ -662,8 +662,8 @@ p, li { white-space: pre-wrap; }
   <widget class="QComboBox" name="comboBox_4">
    <property name="geometry">
     <rect>
-     <x>140</x>
-     <y>340</y>
+     <x>141</x>
+     <y>361</y>
      <width>41</width>
      <height>31</height>
     </rect>
@@ -747,8 +747,8 @@ p, li { white-space: pre-wrap; }
   <widget class="QDateEdit" name="dateEdit_4">
    <property name="geometry">
     <rect>
-     <x>110</x>
-     <y>480</y>
+     <x>111</x>
+     <y>501</y>
      <width>110</width>
      <height>22</height>
     </rect>
@@ -757,8 +757,8 @@ p, li { white-space: pre-wrap; }
   <widget class="QTextEdit" name="textEdit_4">
    <property name="geometry">
     <rect>
-     <x>280</x>
-     <y>480</y>
+     <x>281</x>
+     <y>501</y>
      <width>131</width>
      <height>41</height>
     </rect>
@@ -774,8 +774,8 @@ p, li { white-space: pre-wrap; }
   <widget class="QDateEdit" name="dateEdit_5">
    <property name="geometry">
     <rect>
-     <x>450</x>
-     <y>490</y>
+     <x>451</x>
+     <y>511</y>
      <width>110</width>
      <height>22</height>
     </rect>
@@ -784,8 +784,8 @@ p, li { white-space: pre-wrap; }
   <widget class="QTextEdit" name="textEdit_5">
    <property name="geometry">
     <rect>
-     <x>610</x>
-     <y>480</y>
+     <x>611</x>
+     <y>501</y>
      <width>131</width>
      <height>41</height>
     </rect>
@@ -801,8 +801,8 @@ p, li { white-space: pre-wrap; }
   <widget class="QTextEdit" name="textEdit_6">
    <property name="geometry">
     <rect>
-     <x>280</x>
-     <y>520</y>
+     <x>281</x>
+     <y>541</y>
      <width>131</width>
      <height>41</height>
     </rect>
@@ -818,8 +818,8 @@ p, li { white-space: pre-wrap; }
   <widget class="QDateEdit" name="dateEdit_6">
    <property name="geometry">
     <rect>
-     <x>450</x>
-     <y>580</y>
+     <x>451</x>
+     <y>601</y>
      <width>110</width>
      <height>22</height>
     </rect>
@@ -828,8 +828,8 @@ p, li { white-space: pre-wrap; }
   <widget class="QDateEdit" name="dateEdit_7">
    <property name="geometry">
     <rect>
-     <x>110</x>
-     <y>530</y>
+     <x>111</x>
+     <y>551</y>
      <width>110</width>
      <height>22</height>
     </rect>
@@ -838,8 +838,8 @@ p, li { white-space: pre-wrap; }
   <widget class="QTextEdit" name="textEdit_7">
    <property name="geometry">
     <rect>
-     <x>610</x>
-     <y>520</y>
+     <x>611</x>
+     <y>541</y>
      <width>131</width>
      <height>41</height>
     </rect>
@@ -855,8 +855,8 @@ p, li { white-space: pre-wrap; }
   <widget class="QDateEdit" name="dateEdit_8">
    <property name="geometry">
     <rect>
-     <x>110</x>
-     <y>570</y>
+     <x>111</x>
+     <y>591</y>
      <width>110</width>
      <height>22</height>
     </rect>
@@ -865,8 +865,8 @@ p, li { white-space: pre-wrap; }
   <widget class="QTextEdit" name="textEdit_8">
    <property name="geometry">
     <rect>
-     <x>280</x>
-     <y>570</y>
+     <x>281</x>
+     <y>591</y>
      <width>131</width>
      <height>41</height>
     </rect>
@@ -882,8 +882,8 @@ p, li { white-space: pre-wrap; }
   <widget class="QTextEdit" name="textEdit_9">
    <property name="geometry">
     <rect>
-     <x>610</x>
-     <y>570</y>
+     <x>611</x>
+     <y>591</y>
      <width>131</width>
      <height>41</height>
     </rect>
@@ -899,8 +899,8 @@ p, li { white-space: pre-wrap; }
   <widget class="QDateEdit" name="dateEdit_9">
    <property name="geometry">
     <rect>
-     <x>450</x>
-     <y>530</y>
+     <x>451</x>
+     <y>551</y>
      <width>110</width>
      <height>22</height>
     </rect>
@@ -909,8 +909,8 @@ p, li { white-space: pre-wrap; }
   <widget class="QLabel" name="label2_15">
    <property name="geometry">
     <rect>
-     <x>40</x>
-     <y>530</y>
+     <x>41</x>
+     <y>551</y>
      <width>81</width>
      <height>21</height>
     </rect>
@@ -922,8 +922,8 @@ p, li { white-space: pre-wrap; }
   <widget class="QLabel" name="label2_16">
    <property name="geometry">
     <rect>
-     <x>40</x>
-     <y>570</y>
+     <x>41</x>
+     <y>591</y>
      <width>81</width>
      <height>21</height>
     </rect>
@@ -935,7 +935,7 @@ p, li { white-space: pre-wrap; }
   <widget class="QPushButton" name="Sure_2">
    <property name="geometry">
     <rect>
-     <x>530</x>
+     <x>650</x>
      <y>750</y>
      <width>93</width>
      <height>28</height>
@@ -948,8 +948,8 @@ p, li { white-space: pre-wrap; }
   <widget class="QLabel" name="label2_17">
    <property name="geometry">
     <rect>
-     <x>880</x>
-     <y>390</y>
+     <x>881</x>
+     <y>411</y>
      <width>81</width>
      <height>21</height>
     </rect>
@@ -961,8 +961,8 @@ p, li { white-space: pre-wrap; }
   <widget class="QLabel" name="label2_18">
    <property name="geometry">
     <rect>
-     <x>800</x>
-     <y>420</y>
+     <x>801</x>
+     <y>441</y>
      <width>81</width>
      <height>21</height>
     </rect>
@@ -974,8 +974,8 @@ p, li { white-space: pre-wrap; }
   <widget class="QLabel" name="label2_19">
    <property name="geometry">
     <rect>
-     <x>880</x>
-     <y>420</y>
+     <x>881</x>
+     <y>441</y>
      <width>81</width>
      <height>21</height>
     </rect>
@@ -987,8 +987,8 @@ p, li { white-space: pre-wrap; }
   <widget class="QLabel" name="label2_20">
    <property name="geometry">
     <rect>
-     <x>970</x>
-     <y>420</y>
+     <x>971</x>
+     <y>441</y>
      <width>81</width>
      <height>21</height>
     </rect>
@@ -1000,8 +1000,8 @@ p, li { white-space: pre-wrap; }
   <widget class="QComboBox" name="comboBox_5">
    <property name="geometry">
     <rect>
-     <x>800</x>
-     <y>440</y>
+     <x>801</x>
+     <y>461</y>
      <width>41</width>
      <height>31</height>
     </rect>
@@ -1085,8 +1085,8 @@ p, li { white-space: pre-wrap; }
   <widget class="QTextEdit" name="textEdit_10">
    <property name="geometry">
     <rect>
-     <x>870</x>
-     <y>440</y>
+     <x>871</x>
+     <y>461</y>
      <width>51</width>
      <height>31</height>
     </rect>
@@ -1102,8 +1102,8 @@ p, li { white-space: pre-wrap; }
   <widget class="QTextEdit" name="textEdit_11">
    <property name="geometry">
     <rect>
-     <x>960</x>
-     <y>440</y>
+     <x>961</x>
+     <y>461</y>
      <width>51</width>
      <height>31</height>
     </rect>
@@ -1119,8 +1119,8 @@ p, li { white-space: pre-wrap; }
   <widget class="QComboBox" name="comboBox_6">
    <property name="geometry">
     <rect>
-     <x>800</x>
-     <y>490</y>
+     <x>801</x>
+     <y>511</y>
      <width>41</width>
      <height>31</height>
     </rect>
@@ -1204,8 +1204,8 @@ p, li { white-space: pre-wrap; }
   <widget class="QTextEdit" name="textEdit_12">
    <property name="geometry">
     <rect>
-     <x>870</x>
-     <y>490</y>
+     <x>871</x>
+     <y>511</y>
      <width>51</width>
      <height>31</height>
     </rect>
@@ -1221,8 +1221,8 @@ p, li { white-space: pre-wrap; }
   <widget class="QTextEdit" name="textEdit_13">
    <property name="geometry">
     <rect>
-     <x>960</x>
-     <y>490</y>
+     <x>961</x>
+     <y>511</y>
      <width>51</width>
      <height>31</height>
     </rect>
@@ -1238,8 +1238,8 @@ p, li { white-space: pre-wrap; }
   <widget class="QComboBox" name="comboBox_7">
    <property name="geometry">
     <rect>
-     <x>800</x>
-     <y>530</y>
+     <x>801</x>
+     <y>551</y>
      <width>41</width>
      <height>31</height>
     </rect>
@@ -1323,8 +1323,8 @@ p, li { white-space: pre-wrap; }
   <widget class="QTextEdit" name="textEdit_14">
    <property name="geometry">
     <rect>
-     <x>960</x>
-     <y>530</y>
+     <x>961</x>
+     <y>551</y>
      <width>51</width>
      <height>31</height>
     </rect>
@@ -1340,8 +1340,8 @@ p, li { white-space: pre-wrap; }
   <widget class="QTextEdit" name="textEdit_15">
    <property name="geometry">
     <rect>
-     <x>870</x>
-     <y>530</y>
+     <x>871</x>
+     <y>551</y>
      <width>51</width>
      <height>31</height>
     </rect>
@@ -1357,8 +1357,8 @@ p, li { white-space: pre-wrap; }
   <widget class="QComboBox" name="comboBox_8">
    <property name="geometry">
     <rect>
-     <x>800</x>
-     <y>580</y>
+     <x>801</x>
+     <y>601</y>
      <width>41</width>
      <height>31</height>
     </rect>
@@ -1442,8 +1442,8 @@ p, li { white-space: pre-wrap; }
   <widget class="QTextEdit" name="textEdit_16">
    <property name="geometry">
     <rect>
-     <x>960</x>
-     <y>580</y>
+     <x>961</x>
+     <y>601</y>
      <width>51</width>
      <height>31</height>
     </rect>
@@ -1459,8 +1459,8 @@ p, li { white-space: pre-wrap; }
   <widget class="QTextEdit" name="textEdit_17">
    <property name="geometry">
     <rect>
-     <x>870</x>
-     <y>580</y>
+     <x>871</x>
+     <y>601</y>
      <width>51</width>
      <height>31</height>
     </rect>
@@ -1476,8 +1476,8 @@ p, li { white-space: pre-wrap; }
   <widget class="QLabel" name="generate_form_label">
    <property name="geometry">
     <rect>
-     <x>410</x>
-     <y>60</y>
+     <x>381</x>
+     <y>91</y>
      <width>91</width>
      <height>21</height>
     </rect>
@@ -1489,8 +1489,8 @@ p, li { white-space: pre-wrap; }
   <widget class="QComboBox" name="generate_form_comboBox">
    <property name="geometry">
     <rect>
-     <x>550</x>
-     <y>60</y>
+     <x>521</x>
+     <y>81</y>
      <width>151</width>
      <height>31</height>
     </rect>
@@ -1506,6 +1506,110 @@ p, li { white-space: pre-wrap; }
     </property>
    </item>
   </widget>
+  <widget class="QWidget" name="widget_2" native="true">
+   <property name="geometry">
+    <rect>
+     <x>31</x>
+     <y>31</y>
+     <width>991</width>
+     <height>101</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_3" native="true">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>160</y>
+     <width>991</width>
+     <height>481</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QWidget" name="verticalLayoutWidget">
+   <property name="geometry">
+    <rect>
+     <x>19</x>
+     <y>19</y>
+     <width>1021</width>
+     <height>711</height>
+    </rect>
+   </property>
+   <layout class="QVBoxLayout" name="verticalLayout"/>
+  </widget>
+  <zorder>reimburse_dateEdit</zorder>
+  <zorder>Title</zorder>
+  <zorder>decide_comboBox</zorder>
+  <zorder>decide_label</zorder>
+  <zorder>reimburse_time_label</zorder>
+  <zorder>Sure</zorder>
+  <zorder>label2_2</zorder>
+  <zorder>label2_3</zorder>
+  <zorder>label2_4</zorder>
+  <zorder>checkBox1</zorder>
+  <zorder>checkBox_2</zorder>
+  <zorder>checkBox_4</zorder>
+  <zorder>checkBox_5</zorder>
+  <zorder>checkBox_6</zorder>
+  <zorder>checkBox_7</zorder>
+  <zorder>checkBox_8</zorder>
+  <zorder>checkBox_9</zorder>
+  <zorder>checkBox_3</zorder>
+  <zorder>checkBox_10</zorder>
+  <zorder>label2_5</zorder>
+  <zorder>comboBox_2</zorder>
+  <zorder>comboBox_3</zorder>
+  <zorder>label2_6</zorder>
+  <zorder>textEdit</zorder>
+  <zorder>label2_7</zorder>
+  <zorder>dateEdit_2</zorder>
+  <zorder>label2_8</zorder>
+  <zorder>label2_9</zorder>
+  <zorder>label2_10</zorder>
+  <zorder>label2_11</zorder>
+  <zorder>dateEdit_3</zorder>
+  <zorder>textEdit_2</zorder>
+  <zorder>textEdit_3</zorder>
+  <zorder>label2_12</zorder>
+  <zorder>label2_13</zorder>
+  <zorder>label2_14</zorder>
+  <zorder>comboBox_4</zorder>
+  <zorder>dateEdit_4</zorder>
+  <zorder>textEdit_4</zorder>
+  <zorder>dateEdit_5</zorder>
+  <zorder>textEdit_5</zorder>
+  <zorder>textEdit_6</zorder>
+  <zorder>dateEdit_6</zorder>
+  <zorder>dateEdit_7</zorder>
+  <zorder>textEdit_7</zorder>
+  <zorder>dateEdit_8</zorder>
+  <zorder>textEdit_8</zorder>
+  <zorder>textEdit_9</zorder>
+  <zorder>dateEdit_9</zorder>
+  <zorder>label2_15</zorder>
+  <zorder>label2_16</zorder>
+  <zorder>Sure_2</zorder>
+  <zorder>label2_17</zorder>
+  <zorder>label2_18</zorder>
+  <zorder>label2_19</zorder>
+  <zorder>label2_20</zorder>
+  <zorder>comboBox_5</zorder>
+  <zorder>textEdit_10</zorder>
+  <zorder>textEdit_11</zorder>
+  <zorder>comboBox_6</zorder>
+  <zorder>textEdit_12</zorder>
+  <zorder>textEdit_13</zorder>
+  <zorder>comboBox_7</zorder>
+  <zorder>textEdit_14</zorder>
+  <zorder>textEdit_15</zorder>
+  <zorder>comboBox_8</zorder>
+  <zorder>textEdit_16</zorder>
+  <zorder>textEdit_17</zorder>
+  <zorder>generate_form_label</zorder>
+  <zorder>generate_form_comboBox</zorder>
+  <zorder>widget_2</zorder>
+  <zorder>widget_3</zorder>
+  <zorder>verticalLayoutWidget</zorder>
  </widget>
  <resources/>
  <connections/>

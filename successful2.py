@@ -60,3 +60,47 @@ if __name__ == '__main__':
     widget.show()
     widget.setWindowTitle("投促中心报销软件应用")
     sys.exit(app.exec_())
+    def __init__(self,widget):
+        self.widget = widget
+        self.widget.setFixedSize(1067, 762)
+        self.widget.setWindowTitle("投促中心报销软件应用")
+
+
+        self.widget_2 = QWidget(self.widget)
+        self.widget_2.setGeometry(QtCore.QRect(260, 90, 721, 80))
+        self.widget_2.setObjectName("widget_2")
+        self.pushButton = QtWidgets.QPushButton(self.widget_2)
+        self.pushButton.setGeometry(QtCore.QRect(220, 30, 93, 28))
+        self.pushButton.setObjectName("pushButton")
+
+
+
+        self.widget_3 = QWidget(self.widget)
+        self.widget_3.setGeometry(QtCore.QRect(160, 480, 821, 80))
+        self.widget_3.setObjectName("widget_3")
+        self.pushButton_2 = QtWidgets.QPushButton(self.widget_3)
+        self.pushButton_2.setGeometry(QtCore.QRect(390, 10, 93, 28))
+        self.pushButton_2.setObjectName("pushButton_2")
+        self.pushButton.setText( "123")
+        self.pushButton_2.setText( "456")
+
+        self.comboBox = QtWidgets.QComboBox(widget)
+        self.comboBox.setGeometry(QtCore.QRect(270, 270, 87, 22))
+        self.comboBox.setObjectName("comboBox")
+        self.comboBox.addItem("1")
+        self.comboBox.addItem("2")
+        self.comboBox.addItem("3")
+        self.comboBox.currentIndexChanged.connect(self.onComboBoxChanged)
+
+
+    def onComboBoxChanged(self,index):   # comobox
+        if(self.comboBox.currentText()=="1"):
+            self.widget_2.show()
+            self.widget_3.hide()
+        elif(self.comboBox.currentText()=="2"):
+            self.widget_3.show()
+            self.widget_2.hide()
+
+
+
+
